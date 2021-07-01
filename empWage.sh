@@ -1,6 +1,6 @@
 #!/bin/bash -x
 empRatePerHr=20
-numOfworkingDays=10
+numOfworkingDays=20
 totalSalary=0
 for ((day=1;day<=$numOfworkingDays;day++))
 do
